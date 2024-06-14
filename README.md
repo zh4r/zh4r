@@ -11,3 +11,4 @@
 -->
 ![](./banner.png)
 <!-- ![zh4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=zh4r&theme=gruvbox&show_icons=true&hide=prs) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zh4r&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
