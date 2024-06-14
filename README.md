@@ -10,3 +10,4 @@
 - ⚡ Fun fact: ...
 -->
 ![zh4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=zh4r&theme=gruvbox&show_icons=true&hide=prs)
+![](./banner.png)
