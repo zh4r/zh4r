@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td valign="top">      
-     <a href="https://spotify-github-profile.vercel.app/api/view?uid=21jmkuu4vphmlwxzzworoaoiy"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=21jmkuu4vphmlwxzzworoaoiy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=e99825&bar_color_cover=false" /></a>
+     <a href="https://spotify-github-profile.kittinanx.app/api/view?uid=21jmkuu4vphmlwxzzworoaoiy"> <img src="https://spotify-github-profile.kittinanx.app/api/view?uid=21jmkuu4vphmlwxzzworoaoiy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=e99825&bar_color_cover=false" /></a>
     </td>
   </tr>
 </table>
