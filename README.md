@@ -12,7 +12,7 @@
 <!-- ![zh4r's GitHub stats](https://github-readme-stats.vercel.app/api?username=zh4r&theme=gruvbox&show_icons=true&hide=prs) -->
 
 <img alt="followers" title="Follow me on Github" height="20px" src="https://img.shields.io/github/followers/zh4r?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>![visitors](https://visitor-badge.laobi.icu/badge?page_id=zh4r.zh4r)
-![](./banner.png)
+![](./banner.jpg)
 
 <table align="center">
   <tr>
