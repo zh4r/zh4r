@@ -17,7 +17,9 @@
 <table align="center">
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zh4r&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></td>
-    <td rowspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4r&theme=gruvbox" alt="mystreak"/></td>
+<!--     <td rowspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4r&theme=gruvbox" alt="mystreak"/></td> -->
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=zh4r)](https://git.io/streak-stats)
+
   </tr>
   <tr>
     <td valign="top">      
