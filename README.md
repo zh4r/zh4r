@@ -18,7 +18,7 @@
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=zh4r&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></td>
 <!--     <td rowspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=zh4r&theme=gruvbox" alt="mystreak"/></td> -->
-    <td rowspan="2"><img src="https://streak-stats.demolab.com?user=zh4r&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=188" alt="GitHub Streak" /></a></td>
+    <td rowspan="2"><img src="https://streak-stats.demolab.com?user=zh4r&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a></td>
   </tr>
   <tr>
     <td valign="top">      
